@@ -34,10 +34,3 @@ the application should let the user to:
 
 1. Edit corner radius by dragging corner handle
 2. Move rectangles around by dragging them
-
-also the application
-
-1. Setting its position on the screen: rectangle.setPosition(100,200);
-2. Setting its size: rectangle.setSize(50, 60);
-3. Setting the corner radius: rectangle.setCornerRadius(10);
-4. Serialising its state to JSON data: rectangle.toJSON();
